@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import Axios from "axios";
 import styled from "styled-components";
 import Movies from './components/movie.js';
 import MovieInfoComponent from './components/movieInfo.js';
