@@ -104,12 +104,12 @@ function App() {
       <Header>
         <AppName>
           <MovieImage src="/movie-icon.png" />
-          React Movie App
+          Flick Forage
         </AppName>
         <SearchBox>
           <SearchIcon src="/search-icon.png" />
           <SearchInput 
-            placeholder="Search..."
+            placeholder="Forage..."
             value={searchQuery} 
             onChange={onTextChange}
           />
