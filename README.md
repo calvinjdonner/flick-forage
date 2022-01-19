@@ -13,7 +13,7 @@
 </p>
      
   ## Description 🎞️
-   Welcome to Flick Forage! The app for cinephiles to search for movies and tv shows including relevant details
+   Welcome to Flick Forage! The app for cinephiles to search for movies and tv shows including relevant details. Built using React.js with Styled Components.
 
    ![screenshot](/public/flick-screenshot.png)
 
