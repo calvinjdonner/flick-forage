@@ -15,6 +15,8 @@
   ## Description 🎞️
    Welcome to Flick Forage! The app for cinephiles to search for movies and tv shows including relevant details
 
+   ![screenshot](/public/flick-screenshot.png)
+
   ## Table of Contents
   - [Description](#description)
   - [Contributing](#contributing)
